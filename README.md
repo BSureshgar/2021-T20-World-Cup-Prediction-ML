@@ -2,7 +2,7 @@
 
 **How to:**
 
-**The T20 Record Obtainer **
+**The T20 Record Obtainer**
 
 This notebook is used to obtain all required data to be fed into the model. The data will be parsed from https://www.espncricinfo.com/, which is a cricket sports website, and a database. 
 
