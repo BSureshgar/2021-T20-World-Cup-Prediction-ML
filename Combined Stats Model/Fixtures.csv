@@ -1,0 +1,46 @@
+Match No,Date,Team1,Team2,Time,Venue
+1,17-Oct-21,Oman,P.N.G.,3:30 pm,Muscat
+2,17-Oct-21,Bangladesh,Scotland,7:30 pm,Muscat
+3,18-Oct-21,Ireland,Netherlands,3:30 pm,Abu Dhabi
+4,18-Oct-21,Sri Lanka,Namibia,7:30 pm,Abu Dhabi
+5,19-Oct-21,Scotland,P.N.G.,3:30 pm,Muscat
+6,19-Oct-21,Oman,Bangladesh,7:30 pm,Muscat
+7,20-Oct-21,Namibia,Netherlands,3:30 pm,Abu Dhabi
+8,20-Oct-21,Sri Lanka,Ireland,7:30 pm,Abu Dhabi
+9,21-Oct-21,Bangladesh,P.N.G.,3:30 pm,Muscat
+10,21-Oct-21,Oman,Scotland,7:30 pm,Muscat
+11,22-Oct-21,Namibia,Ireland,3:30 pm,Sharjah
+12,22-Oct-21,Sri Lanka,Netherlands,7:30 pm,Sharjah
+12,23-Oct-21,Australia,South Africa,3:30 pm,Abu Dhabi
+12,23-Oct-21,England,West Indies,7:30 pm,Dubai
+12,24-Oct-21,A1,B2,3:30 pm,Sharjah
+12,26-Oct-21,South Africa,West Indies,3:30 pm,Dubai
+12,27-Oct-21,England,B2,3:30 pm,Abu Dhabi
+12,28-Oct-21,Australia,A1,7:30 pm,Dubai
+12,29-Oct-21,West Indies,B2,3:30 pm,Sharjah
+12,30-Oct-21,South Africa,A1,3:30 pm,Sharjah
+12,30-Oct-21,England,Australia,7:30 pm,Dubai
+12,01-Nov-21,England,A1,7:30 pm,Sharjah
+12,02-Nov-21,South Africa,B2,3:30 pm,Abu Dhabi
+12,04-Nov-21,Australia,B2,3:30 pm,Dubai
+12,04-Nov-21,West Indies,A1,7:30 pm,Abu Dhabi
+12,06-Nov-21,Australia,West Indies,3:30 pm,Abu Dhabi
+12,06-Nov-21,England,South Africa,7:30 pm,Sharjah
+12,24-Oct-21,India,Pakistan,7:30 pm,Dubai
+12,25-Oct-21,Afghanistan,B1,7:30 pm,Sharjah
+12,26-Oct-21,Pakistan,New Zealand,7:30 pm,Sharjah
+12,27-Oct-21,B1,A2,7:30 pm,Abu Dhabi
+12,29-Oct-21,Afghanistan,Pakistan,7:30 pm,Dubai
+12,31-Oct-21,Afghanistan,A2,3:30 pm,Abu Dhabi
+12,31-Oct-21,India,New Zealand,7:30 pm,Dubai
+12,02-Nov-21,Pakistan,A2,7:30 pm,Abu Dhabi
+12,03-Nov-21,New Zealand,B1,3:30 pm,Dubai
+12,03-Nov-21,India,Afghanistan,7:30 pm,Abu Dhabi
+12,05-Nov-21,New Zealand,A2,3:30 pm,Sharjah
+12,05-Nov-21,India,B1,7:30 pm,Dubai
+12,07-Nov-21,New Zealand,Afghanistan,3:30 pm,Abu Dhabi
+12,07-Nov-21,Pakistan,B1,7:30 pm,Sharjah
+12,08-Nov-21,India,A2,7:30 pm,Dubai
+12,10-Nov-21,A1,B2,1st Semi-Final,7:30 pm
+12,11-Nov-21,A2,B1,2nd Semi-Final,7:30 pm
+12,14-Nov-21,Winner1,Winner2,Final,7:30 pm
