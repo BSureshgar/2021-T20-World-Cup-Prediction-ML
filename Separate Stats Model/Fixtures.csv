@@ -1,0 +1,46 @@
+Match No,Date,Team1,Team2,Time,Venue
+1,17/10/2021,Oman,P.N.G.,3:30 pm,Muscat
+2,17/10/2021,Bangladesh,Scotland,7:30 pm,Muscat
+3,18/10/2021,Ireland,Netherlands,3:30 pm,Abu Dhabi
+4,18/10/2021,Sri Lanka,Namibia,7:30 pm,Abu Dhabi
+5,19/10/2021,Scotland,P.N.G.,3:30 pm,Muscat
+6,19/10/2021,Oman,Bangladesh,7:30 pm,Muscat
+7,20/10/2021,Namibia,Netherlands,3:30 pm,Abu Dhabi
+8,20/10/2021,Sri Lanka,Ireland,7:30 pm,Abu Dhabi
+9,21/10/2021,Bangladesh,P.N.G.,3:30 pm,Muscat
+10,21/10/2021,Oman,Scotland,7:30 pm,Muscat
+11,22/10/2021,Namibia,Ireland,3:30 pm,Sharjah
+12,22/10/2021,Sri Lanka,Netherlands,7:30 pm,Sharjah
+12,23/10/2021,Australia,South Africa,3:30 pm,Abu Dhabi
+12,23/10/2021,England,West Indies,7:30 pm,Dubai
+12,24/10/2021,A1,B2,3:30 pm,Sharjah
+12,24/10/2021,India,Pakistan,7:30 pm,Dubai
+12,25/10/2021,Afghanistan,B1,7:30 pm,Sharjah
+12,26/10/2021,South Africa,West Indies,3:30 pm,Dubai
+12,26/10/2021,Pakistan,New Zealand,7:30 pm,Sharjah
+12,27/10/2021,England,B2,3:30 pm,Abu Dhabi
+12,27/10/2021,B1,A2,7:30 pm,Abu Dhabi
+12,28/10/2021,Australia,A1,7:30 pm,Dubai
+12,29/10/2021,West Indies,B2,3:30 pm,Sharjah
+12,29/10/2021,Afghanistan,Pakistan,7:30 pm,Dubai
+12,30/10/2021,South Africa,A1,3:30 pm,Sharjah
+12,30/10/2021,England,Australia,7:30 pm,Dubai
+12,31/10/2021,Afghanistan,A2,3:30 pm,Abu Dhabi
+12,31/10/2021,India,New Zealand,7:30 pm,Dubai
+12,01/11/2021,England,A1,7:30 pm,Sharjah
+12,02/11/2021,South Africa,B2,3:30 pm,Abu Dhabi
+12,02/11/2021,Pakistan,A2,7:30 pm,Abu Dhabi
+12,03/11/2021,New Zealand,B1,3:30 pm,Dubai
+12,03/11/2021,India,Afghanistan,7:30 pm,Abu Dhabi
+12,04/11/2021,Australia,B2,3:30 pm,Dubai
+12,04/11/2021,West Indies,A1,7:30 pm,Abu Dhabi
+12,05/11/2021,New Zealand,A2,3:30 pm,Sharjah
+12,05/11/2021,India,B1,7:30 pm,Dubai
+12,06/11/2021,Australia,West Indies,3:30 pm,Abu Dhabi
+12,06/11/2021,England,South Africa,7:30 pm,Sharjah
+12,07/11/2021,New Zealand,Afghanistan,3:30 pm,Abu Dhabi
+12,07/11/2021,Pakistan,B1,7:30 pm,Sharjah
+12,08/11/2021,India,A2,7:30 pm,Dubai
+12,10/11/2021,A1,B2,1st Semi-Final,7:30 pm
+12,11/11/2021,A2,B1,2nd Semi-Final,7:30 pm
+12,14/11/2021,Winner1,Winner2,Final,7:30 pm
