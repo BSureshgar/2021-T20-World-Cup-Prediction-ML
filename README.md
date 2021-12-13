@@ -1,4 +1,4 @@
-# 2021 T20 World Cup Predictior
+# 2021 T20 World Cup Predictor
 
 ## Introduction
 
